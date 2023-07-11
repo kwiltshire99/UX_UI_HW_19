@@ -25,10 +25,10 @@ p {
   max-width: 500px;
 }
 .accordian {
-  background-color: #3F3F3F;
+  background-color: #E3D6EA;
   font-size: 18px;
   font-family: helvetica;
-  color: white;
+  color:#2B2D42;
   display: flex;
   cursor: pointer;
 }
@@ -39,12 +39,12 @@ p {
   width: 93%;
 }
 .indicator {
-  background-color: #545454;
+  background-color: #E3D6EA;
   width: 7%;
   text-align:center;
 }
 .toggleMe {
-  background-color: lightgrey; 
+  background-color:#E3D6EA; 
   display: flex;
   flex-direction: column;
   flex-grow: 1;
